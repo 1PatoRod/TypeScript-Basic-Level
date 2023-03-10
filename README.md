@@ -587,22 +587,22 @@ En este ejemplo, estamos importando la clase Person desde el archivo person.ts u
 
 Además, TypeScript admite diferentes formatos de módulos, como CommonJS, AMD y ES6, lo que permite utilizar librerías y frameworks que utilizan estos formatos.
 
-###   Seccion 4: Aplicando TypeScript en proyectos reales
+#   Seccion 4: Aplicando TypeScript en proyectos reales
 
-#   Sección 1: Creando un proyecto de tipo e-commerce usando TypeScript
+##   Sección 1: Creando un proyecto de tipo e-commerce usando TypeScript
 *       Introducción al proyecto y configuración del entorno de desarrollo.
 *       Diseño de la arquitectura del proyecto.
 *       Creación de modelos y clases para representar los datos del e-commerce.
 *       Implementación de funciones para procesar pedidos y calcular precios.
-#   Sección 2: Manejo de errores y debugging
+##   Sección 2: Manejo de errores y debugging
 *       Uso de try-catch para manejar errores en el código.
 *       Depuración de errores con la herramienta de desarrollo de TypeScript.
 *       Uso de breakpoints y watch expressions para encontrar y solucionar errores.
-#   Sección 3: Integración con otras tecnologías como React y Node.js
+##   Sección 3: Integración con otras tecnologías como React y Node.js
 *       Integración de TypeScript en proyectos React existentes.
 *       Uso de módulos de Node.js en proyectos TypeScript.
 *       Configuración de Webpack para compilar proyectos TypeScript.
-#   Sección 4: Optimización y rendimiento del código TypeScript
+##   Sección 4: Optimización y rendimiento del código TypeScript
 *       Uso de genéricos para escribir código reutilizable y eficiente.
 *       Uso de decoradores para mejorar el rendimiento y la funcionalidad de las clases.
 *       Consideraciones de rendimiento al trabajar con grandes conjuntos de datos.

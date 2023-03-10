@@ -7,7 +7,7 @@
 
 
 
-¡Genial! Empecemos. Este curso de TypeScript estará dividido en diferentes secciones, cada una con su propio tema y objetivos de aprendizaje. Al final del curso, deberías ser capaz de escribir código en TypeScript y aplicarlo en proyectos de programación.
+¡Genial! Empecemos. Esta guia de TypeScript estará dividido en diferentes secciones, cada una con su propio tema y objetivos de aprendizaje. Al final de la guia, deberías ser capaz de escribir código en TypeScript y aplicarlo en proyectos de programación.
 
 ## Sección 1: Introducción
 
